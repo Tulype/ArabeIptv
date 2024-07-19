@@ -1,17 +1,7 @@
 #EXTM3U
 
-#EXTGRP:Rossom
-#EXTINF:-1, MBC3 HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/47.m3u8
+#EXTINF:-1 group-title="Rossom", MBC3 HD
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
-#EXTGRP:Rossom
-#EXTINF:-1, SpaceToon HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7053.m3u8
-
-#EXTGRP:Rossom
-#EXTINF:-1, Cartoon Network HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/6551.m3u8
-
-#EXTGRP:Rossom
-#EXTINF:-1, Nickelodeon HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8998.m3u8
+#EXTINF:-1 group-title="Rossom", SpaceToon HD
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
