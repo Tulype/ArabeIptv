@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Rossom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg", MBC3 HD
+#EXTINF:-1 group-title="Rossom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png", MBC3 HD
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 
-#EXTINF:-1 group-title="Rossom" tvg-logo="https://en.wikipedia.org/wiki/Spacetoon#/media/File:Spacetoon_logo.png", SpaceToon HD
+#EXTINF:-1 group-title="Rossom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Spacetoon.png", SpaceToon HD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
