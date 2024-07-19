@@ -5,3 +5,9 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 
 #EXTINF:-1 group-title="Rossom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Spacetoon.png", SpaceToon HD
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
+#EXTINF:-1 group-title="INFO" tvg-logo="https://imgur.com/QxHt9NC", TF1 HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+
+#EXTINF:-1 group-title="ISLAM" tvg-logo="https://imgur.com/HPVsIa4", IQRAA HD
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
